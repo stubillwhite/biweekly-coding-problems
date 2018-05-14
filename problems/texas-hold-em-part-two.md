@@ -1,3 +1,5 @@
+# Texas Hold 'em - part two
+
 This doesn't really require the previous week's work, but if you've got it then you can just slot it in there. This week
 we're going to try to classify poker hands. Poker has the following types of hands:
 
