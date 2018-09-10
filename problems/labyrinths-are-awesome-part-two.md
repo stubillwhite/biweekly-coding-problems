@@ -1,4 +1,4 @@
-# Labyrinths Are Awesome - part one
+# Labyrinths Are Awesome - part two
 
 Last week we created a labyrinth. This week we're trying to escape it.
 
