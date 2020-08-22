@@ -10,7 +10,13 @@ There are a few clarifications to bear in mind:
 - It's possible that you'll end up with more than one blob in the end
 - Larger blobs can merge with each other, for example if they collide when moving towards a common goal
 - Often one will end up trailing another for some time
-- The clockwise rule means that if you have three nodes at equal distance and all equal size then choose the node
-  clockwise from 12 o'clock. For example, if you have three nodes of equal size and distance at 1 o'clock, at 5 o'clock,
-  and at 11 o'clock, then you'll choose the one at 1 o'clock.
 - As blobs try to minimise the distance there will be a preference for diagonal moves
+
+The discussion in Reddit suggests breaking ties by selecting the first prey clockwise from 12 o'clock. Feel free to do
+so if you want to, but that adds a bit of complexity so we're bothering with that requirement.
+
+If you complete the challenge and want to have a little fun, try adding the following rule:
+
+- Instead of remaining static, if a blob has no prey smaller than it then it should move in a random direction (within
+  the bounds of the world)
+
