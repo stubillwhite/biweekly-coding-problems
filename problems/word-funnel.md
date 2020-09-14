@@ -1,4 +1,4 @@
-# Word funnel
+# Word funnel #
 
 This week we're doing a fun challenge from Daily Programmer:
 

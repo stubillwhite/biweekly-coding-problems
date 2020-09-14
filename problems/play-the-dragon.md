@@ -1,4 +1,4 @@
-# Play the Dragon
+# Play the Dragon #
 
 This week we're doing a fun exercise from Google Code Jam 2017
 

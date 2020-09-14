@@ -1,4 +1,4 @@
-# Texas Hold 'em - part one
+# Texas Hold 'em - part one #
 
 We're going to code up dealing Texas Hold 'em hands. There's a summary of the game on
 [Wikipedia](https://en.wikipedia.org/wiki/Texas_hold_%27em) if you're not familiar.

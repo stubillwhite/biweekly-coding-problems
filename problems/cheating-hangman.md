@@ -1,4 +1,4 @@
-# Cheating Hangman
+# Cheating Hangman #
 
 This week we're doing a fun game from Programming Praxis: 
 
