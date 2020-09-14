@@ -1,4 +1,4 @@
-# World Cup Prognostication
+# World Cup Prognostication #
 
 This week we're doing a fun game from Programming Praxis:
 

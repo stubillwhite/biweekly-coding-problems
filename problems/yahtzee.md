@@ -1,4 +1,4 @@
-# Yahtzee
+# Yahtzee #
 
 This week we're going to implement the game Yahtzee. If you're not familiar with the rules then the article on Wikipedia
 is a good reference:

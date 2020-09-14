@@ -1,4 +1,4 @@
-# Gilded Rose
+# Gilded Rose #
 
 This week we're doing a classic refactoring exercise:
 

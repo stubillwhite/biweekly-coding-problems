@@ -1,4 +1,4 @@
-# Mark V. Shaney
+# Mark V. Shaney #
 
 This week we're doing a fun challenge from Programming Praxis, based on the famous Mark V. Shaney from the early days of
 Usenet.

@@ -1,4 +1,4 @@
-# Labyrinths Are Awesome - part one
+# Labyrinths Are Awesome - part one #
 
 This week we're going to build a labyrinth. There are a variety of different algorithms for doing this, each of which
 creates a labyrinth with slightly different characteristics. We're going to use the recursive backtracking algorithm,

@@ -1,4 +1,4 @@
-# Minesweeper Part One
+# Minesweeper Part One #
 
 Over the next couple of weeks we're going to be doing a fun exercise from Hacker Rank:
 

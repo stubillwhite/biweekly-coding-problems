@@ -1,4 +1,4 @@
-# Mastermind
+# Mastermind #
 
 Last week's challenge was Dawkins' Weasel, in which we evolved a string to match a desired pattern. When discussing the
 problem we started talking about the similarities to the old board game Mastermind. This week we're going to implement

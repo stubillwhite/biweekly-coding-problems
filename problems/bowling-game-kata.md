@@ -1,4 +1,4 @@
-# Bowling Game Kata
+# Bowling Game Kata #
 
 This week we're doing a fun exercise from Programming Praxis:
 

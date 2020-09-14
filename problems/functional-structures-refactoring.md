@@ -1,4 +1,4 @@
-# Functional Structures Refactoring Kata
+# Functional Structures Refactoring Kata #
 
 Our problem for the next two weeks is an excellent kata from Matteo Baglini around refactoring code to a functional approach:
 
