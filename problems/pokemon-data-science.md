@@ -1,11 +1,11 @@
 # Pokémon data science #
 
-This week we're going to do a bit of basic data crunching using Pokemon. 
+This week we're going to do a bit of basic data crunching using Pokémon. 
 
-There are a few data sets online for Pokemon, but this one at Kaggle seems to have been updated fairly recently and it
+There are a few data sets online for Pokémon, but this one at Kaggle seems to have been updated fairly recently and it
 has some interesting detail.
 
-[Complete Pokemon Dataset (Updated 30.04.20) | Kaggle](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
+[Complete Pokémon Dataset (Updated 30.04.20) | Kaggle](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
 
 The schema and data set are below. The task is to parse the data and answer some questions about it. You may not need to
 parse all the fields to answer the questions, so just model what you need to.
@@ -27,47 +27,47 @@ The information is sorted in different groups:
 
 Pokedex Data
 
-- pokedex_number: The entry number of the Pokemon in the National Pokedex
-- name: The English name of the Pokemon
-- german_name: The German name of the Pokemon
-- japanese_name: The Original Japanese name of the Pokemon
-- generation: The numbered generation which the Pokemon was first introduced
-- issublegendary: Denotes if the Pokemon is sub-legendary
-- is_legendary: Denotes if the Pokemon is legendary
-- is_mythical: Denotes if the Pokemon is mythical
-- species: The Categorie of the Pokemon
-- type_number: Number of types that the Pokemon has
-- type_1: The Primary Type of the Pokemon
-- type_2: The Secondary Type of the Pokemon if it has it
-- height_m: Height of the Pokemon in meters
-- weight_kg: The Weight of the Pokemon in kilograms
-- abilities_number: The number of abilities of the Pokemon
-- ability_?: Name of the Pokemon abilities
-- ability_hidden: Name of the hidden ability of the Pokemon if it has one
+- pokedex_number: The entry number of the Pokémon in the National Pokedex
+- name: The English name of the Pokémon
+- german_name: The German name of the Pokémon
+- japanese_name: The Original Japanese name of the Pokémon
+- generation: The numbered generation which the Pokémon was first introduced
+- issublegendary: Denotes if the Pokémon is sub-legendary
+- is_legendary: Denotes if the Pokémon is legendary
+- is_mythical: Denotes if the Pokémon is mythical
+- species: The Categorie of the Pokémon
+- type_number: Number of types that the Pokémon has
+- type_1: The Primary Type of the Pokémon
+- type_2: The Secondary Type of the Pokémon if it has it
+- height_m: Height of the Pokémon in meters
+- weight_kg: The Weight of the Pokémon in kilograms
+- abilities_number: The number of abilities of the Pokémon
+- ability_?: Name of the Pokémon abilities
+- ability_hidden: Name of the hidden ability of the Pokémon if it has one
 
 Base stats
 
 - total_points: Total number of Base Points
-- hp: The Base HP of the Pokemon
-- attack: The Base Attack of the Pokemon
-- defense: The Base Defense of the Pokemon
-- sp_attack: The Base Special Attack of the Pokemon
-- sp_defense: The Base Special Defense of the Pokemon
-- speed: The Base Speed of the Pokemon
+- hp: The Base HP of the Pokémon
+- attack: The Base Attack of the Pokémon
+- defense: The Base Defense of the Pokémon
+- sp_attack: The Base Special Attack of the Pokémon
+- sp_defense: The Base Special Defense of the Pokémon
+- speed: The Base Speed of the Pokémon
 
 Training
 
-- catch_rate: Catch Rate of the Pokemon
-- base_friendship: The Base Friendship of the Pokemon
-- base_experience: The Base experience of a wild Pokemon when caught
-- growth_rate: The Growth Rate of the Pokemon
+- catch_rate: Catch Rate of the Pokémon
+- base_friendship: The Base Friendship of the Pokémon
+- base_experience: The Base experience of a wild Pokémon when caught
+- growth_rate: The Growth Rate of the Pokémon
 
 Breeding
 
-- eggtypenumber: Number of groups where a Pokemon can hatch
-- eggtype?: Names of the egg groups where a Pokemon can hatch
-- percentage_male: The percentage of the species that are male. Blank if the Pokemon is genderless.
-- egg_cycles: The number of cycles (255-257 steps) required to hatch an egg of the Pokemon
+- eggtypenumber: Number of groups where a Pokémon can hatch
+- eggtype?: Names of the egg groups where a Pokémon can hatch
+- percentage_male: The percentage of the species that are male. Blank if the Pokémon is genderless.
+- egg_cycles: The number of cycles (255-257 steps) required to hatch an egg of the Pokémon
 
 Type defenses
 
