@@ -12,6 +12,7 @@ parse all the fields to answer the questions, so just model what you need to.
 
 Questions to answer:
 
+- How many Pokémon species are there in total?
 - Which Pokémon has the highest health?
 - Which Pokémon has the least health?
 - Which Pokémon are of the Dancing Pokémon species?
