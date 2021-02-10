@@ -17,7 +17,7 @@ Questions to answer:
 - Which Pokémon has the least health?
 - Which Pokémon are of the Dancing Pokémon species?
 - How many Pokémon were in each generation?
-- Are more Pokémon male, female, or genderless?
+- How many Pokémon are of each (mythical, legendary, sub-legendary, normal)? (Note that the schema below is slighlty wrong -- this data is in the `status` field)
 
 See if you can come up with some other interesting questions to ask, and drop them in the chat to see if other people can answer them.
 
